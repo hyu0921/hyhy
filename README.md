@@ -1,2 +1,2 @@
-# hyhy
-print('hello world')
+#hyhy
+hello world

@@ -1,1 +1,2 @@
 # hyhy
+print('hello world')
